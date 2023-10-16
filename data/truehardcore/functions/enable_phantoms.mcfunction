@@ -1,0 +1,2 @@
+gamerule doInsomnia true
+schedule function truehardcore:disable_phantoms 1d replace
