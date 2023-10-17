@@ -1,0 +1,2 @@
+gamerule doInsomnia true
+schedule function truehardcore:loops/disable_phantoms 12000 replace

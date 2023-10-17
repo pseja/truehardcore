@@ -1,2 +1,0 @@
-gamerule doInsomnia false
-schedule function truehardcore:enable_phantoms 10d replace
