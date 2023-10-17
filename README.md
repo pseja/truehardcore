@@ -1,12 +1,12 @@
 <div>
     <p align="center">
-        <img src="https://github.com/pseja/truehardcore/blob/main/other/logo.png">
+        <img width="50%" src="https://github.com/pseja/truehardcore/blob/main/other/logo.png">
     </p>
 </div>
 
 <div align="center">
     <p align="center">
-        This datapack aims to bring back the true Minecraft hardcore mode experience
+        This data pack aims to bring back the true Minecraft hardcore mode experience
     </p>
 </div>
 
@@ -52,6 +52,6 @@
         <a href="https://minecraft.wiki/w/Phantom">Phantoms</a>
     </h3>
         <p>
-            because the player cannot sleep, phantoms will spawn only rarely, approximately once every 10 minecraft days making them less annoying and useful for repairing <a href="https://minecraft.wiki/w/Elytra">Elytra</a> before getting mending books
+            because the player cannot sleep, phantoms will spawn only rarely, approximately once every 10 Minecraft days making them less annoying and useful for repairing <a href="https://minecraft.wiki/w/Elytra">Elytra</a> before getting mending books
         </p>
 </div>
